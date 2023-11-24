@@ -1,5 +1,6 @@
 from turtle import *
 from math import sin, cos, tan, pi, radians, sqrt
+#test comment
 
 def draw_bottom_strip(turtle, center_x, center_y, circle_radius):
     turtle.fillcolor("blue")
